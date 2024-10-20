@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e881189e-6b96-41cd-91ff-0574041d337d" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/EX_17102024/Task01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EX_17102024/Test_task002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EX_17102024/test_Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EX_17102024/test_Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EX_17102024/test_Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EX_17102024/test_Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_19102024/test_Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_19102024/test_lab006.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EX_17102024/test_Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX_19102024/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,10 +54,17 @@
     "Python tests.Python tests in Test_task002.py.executor": "Run",
     "Python tests.Python tests in test_Lab003.py.executor": "Run",
     "Python tests.Python tests in test_Lab004.py.executor": "Run",
+    "Python tests.Python tests in test_Lab005.py.executor": "Run",
+    "Python tests.Python tests in test_lab006.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\asus\PycharmProjects\pyATB4xLearningSeleniumPrograms\src\EX_19102024" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Python tests for test_Lab002.test_open_VWO_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pyATB4xLearningSeleniumPrograms" />
@@ -139,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729341799376</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <option name="closed" value="true" />
+      <created>1729431188531</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729431188531</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
