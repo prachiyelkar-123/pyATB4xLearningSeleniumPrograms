@@ -5,7 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e881189e-6b96-41cd-91ff-0574041d337d" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/EX_19102024/test_task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_22102024_CSS_Selector/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_22102024_CSS_Selector/test_Lab009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_22102024_CSS_Selector/test_Lab010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_22102024_CSS_Selector/test_Lab011_explicite_wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_22102024_CSS_Selector/test_Lab012_explicite_fluent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_24102024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_24102024/test_Lab013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EX_17102024/Task01.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX_17102024_Selenium/Task01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EX_17102024/Test_task002.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX_17102024_Selenium/Test_task002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EX_17102024/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX_17102024_Selenium/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EX_17102024/test_Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX_17102024_Selenium/test_Lab002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EX_17102024/test_Lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX_17102024_Selenium/test_Lab003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EX_17102024/test_Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX_17102024_Selenium/test_Lab004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EX_19102024/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX_19102024_Locators/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EX_19102024/test_Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX_19102024_Locators/test_Lab005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EX_19102024/test_Lab007.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX_19102024_Locators/test_Lab007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EX_19102024/test_Lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX_19102024_Locators/test_Lab008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EX_19102024/test_lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX_19102024_Locators/test_lab006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EX_19102024/test_task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX_19102024_Locators/test_task3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EX_19102024/test_task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/EX_19102024_Locators/test_task4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +74,9 @@
     "Python tests.Python tests in test_Lab005.py.executor": "Run",
     "Python tests.Python tests in test_Lab007.py.executor": "Run",
     "Python tests.Python tests in test_Lab008.py.executor": "Run",
+    "Python tests.Python tests in test_Lab009.py.executor": "Run",
+    "Python tests.Python tests in test_Lab010.py.executor": "Run",
+    "Python tests.Python tests in test_Lab013.py.executor": "Run",
     "Python tests.Python tests in test_lab006.py.executor": "Run",
     "Python tests.Python tests in test_task3.py.executor": "Run",
     "Python tests.Python tests in test_task4.py.executor": "Run",
@@ -73,7 +96,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/EX_17102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/EX_17102024_Selenium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -88,7 +111,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/EX_17102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/EX_17102024_Selenium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -168,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729495647062</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test">
+      <option name="closed" value="true" />
+      <created>1729496125163</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729496125163</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
