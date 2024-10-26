@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e881189e-6b96-41cd-91ff-0574041d337d" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/EX_24102024/test_Lab014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EX_24102024/test_Lab015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_24102024/test_SVG_Lab017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_24102024/test_SVG_lab016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_24102024/test_exception_Lab018.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +62,8 @@
     "Python tests.Python tests in test_Lab013.py.executor": "Run",
     "Python tests.Python tests in test_Lab014.py.executor": "Run",
     "Python tests.Python tests in test_Lab015.py.executor": "Run",
+    "Python tests.Python tests in test_SVG_Lab017.py.executor": "Run",
+    "Python tests.Python tests in test_exception_Lab018.py.executor": "Run",
     "Python tests.Python tests in test_lab006.py.executor": "Run",
     "Python tests.Python tests in test_task3.py.executor": "Run",
     "Python tests.Python tests in test_task4.py.executor": "Run",
@@ -191,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729839325368</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test">
+      <option name="closed" value="true" />
+      <created>1729844078536</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729844078536</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
