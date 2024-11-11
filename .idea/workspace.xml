@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e881189e-6b96-41cd-91ff-0574041d337d" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/EX_24102024/test_SVG_Lab017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EX_24102024/test_SVG_lab016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EX_24102024/test_exception_Lab018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_24102024/Exception_Stale.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_24102024/Exception_handke.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_24102024/Exception_timeout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_26102024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_26102024/test_Click&amp;Hold_Lab022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_26102024/test_Lab019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_26102024/test_Lab020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_26102024/test_drag&amp;drop_lab023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_26102024/test_mouseBack_Lab021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Web_Table/Lab018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Web_Table/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +59,9 @@
     "Python tests.Python tests for test_Lab002.test_open_VWO_login.executor": "Run",
     "Python tests.Python tests for test_Lab004.test_chrome_url_verification.executor": "Run",
     "Python tests.Python tests for test_Lab01.test_sample.executor": "Run",
+    "Python tests.Python tests for test_Lab019.test_verify_action_keyboard.executor": "Run",
     "Python tests.Python tests in Test_task002.py.executor": "Run",
+    "Python tests.Python tests in test_Click&Hold_Lab022.py.executor": "Run",
     "Python tests.Python tests in test_Lab003.py.executor": "Run",
     "Python tests.Python tests in test_Lab004.py.executor": "Run",
     "Python tests.Python tests in test_Lab005.py.executor": "Run",
@@ -62,9 +72,12 @@
     "Python tests.Python tests in test_Lab013.py.executor": "Run",
     "Python tests.Python tests in test_Lab014.py.executor": "Run",
     "Python tests.Python tests in test_Lab015.py.executor": "Run",
+    "Python tests.Python tests in test_Lab019.py.executor": "Run",
+    "Python tests.Python tests in test_Lab020.py.executor": "Run",
     "Python tests.Python tests in test_SVG_Lab017.py.executor": "Run",
     "Python tests.Python tests in test_exception_Lab018.py.executor": "Run",
     "Python tests.Python tests in test_lab006.py.executor": "Run",
+    "Python tests.Python tests in test_mouseBack_Lab021.py.executor": "Run",
     "Python tests.Python tests in test_task3.py.executor": "Run",
     "Python tests.Python tests in test_task4.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -107,6 +120,21 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_Lab019.test_verify_action_keyboard" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pyATB4xLearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/EX_26102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab019.test_verify_action_keyboard&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for test_Lab01.test_sample" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pyATB4xLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
@@ -124,6 +152,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_Lab019.test_verify_action_keyboard" />
         <item itemvalue="Python tests.Python tests for test_Lab01.test_sample" />
         <item itemvalue="Python tests.Python tests for test_Lab004.test_chrome_url_verification" />
         <item itemvalue="Python tests.Python tests for test_Lab002.test_open_VWO_login" />
@@ -202,11 +231,30 @@
       <option name="project" value="LOCAL" />
       <updated>1729844078536</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="test">
+      <option name="closed" value="true" />
+      <created>1729946742714</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729946742714</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Web_Table/Lab018.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
