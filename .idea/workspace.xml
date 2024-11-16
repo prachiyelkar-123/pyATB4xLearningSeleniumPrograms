@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e881189e-6b96-41cd-91ff-0574041d337d" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/EX_24102024/Exception_Stale.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EX_24102024/Exception_handke.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EX_24102024/Exception_timeout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EX_26102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EX_26102024/test_Click&amp;Hold_Lab022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EX_26102024/test_Lab019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EX_26102024/test_Lab020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EX_26102024/test_drag&amp;drop_lab023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EX_26102024/test_mouseBack_Lab021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web_Table/Lab018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Web_Table/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_26102024/test_MakeMyTrip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_26102024/test_spicejet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_26102024/test_windows1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_26102024/test_windows2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,12 +67,16 @@
     "Python tests.Python tests in test_Lab015.py.executor": "Run",
     "Python tests.Python tests in test_Lab019.py.executor": "Run",
     "Python tests.Python tests in test_Lab020.py.executor": "Run",
+    "Python tests.Python tests in test_MakeMyTrip.py.executor": "Run",
     "Python tests.Python tests in test_SVG_Lab017.py.executor": "Run",
     "Python tests.Python tests in test_exception_Lab018.py.executor": "Run",
     "Python tests.Python tests in test_lab006.py.executor": "Run",
     "Python tests.Python tests in test_mouseBack_Lab021.py.executor": "Run",
+    "Python tests.Python tests in test_spicejet.py.executor": "Run",
     "Python tests.Python tests in test_task3.py.executor": "Run",
     "Python tests.Python tests in test_task4.py.executor": "Run",
+    "Python tests.Python tests in test_windows1.py.executor": "Run",
+    "Python tests.Python tests in test_windows2.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
