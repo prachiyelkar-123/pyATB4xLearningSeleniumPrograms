@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e881189e-6b96-41cd-91ff-0574041d337d" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/EX_26102024/test_MakeMyTrip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EX_26102024/test_spicejet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EX_26102024/test_windows1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EX_26102024/test_windows2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_28102024_JSExecuter/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_28102024_JSExecuter/test_JS_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_28102024_JSExecuter/test_JS_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_28102024_JSExecuter/test_JS_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_28102024_JSExecuter/test_JS_P4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_28102024_JSExecuter/test_organize_Code.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +57,8 @@
     "Python tests.Python tests for test_Lab019.test_verify_action_keyboard.executor": "Run",
     "Python tests.Python tests in Test_task002.py.executor": "Run",
     "Python tests.Python tests in test_Click&Hold_Lab022.py.executor": "Run",
+    "Python tests.Python tests in test_JS_P1.py.executor": "Run",
+    "Python tests.Python tests in test_JS_P2.py.executor": "Run",
     "Python tests.Python tests in test_Lab003.py.executor": "Run",
     "Python tests.Python tests in test_Lab004.py.executor": "Run",
     "Python tests.Python tests in test_Lab005.py.executor": "Run",
@@ -236,7 +240,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729946742714</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="test">
+      <option name="closed" value="true" />
+      <created>1731759078810</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731759078810</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
